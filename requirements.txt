@@ -1,0 +1,14 @@
+joblib==0.14.0
+librosa==0.9.1
+matplotlib==3.3.4
+natsort==8.1.0
+numpy==1.17.0
+opencv_python_headless==4.5.5.62
+pandas==1.1.4
+scipy==1.4.1
+seaborn==0.11.2
+tensorboard_logger==0.1.0
+tensorboardX==2.5
+torch==1.10.2+cu113
+torchvision==0.11.3+cu113
+tqdm==4.62.3
