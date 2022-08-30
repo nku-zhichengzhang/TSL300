@@ -141,8 +141,8 @@ We referenced the repos below for the code.
 If you find this repo useful in your project or research, please consider citing the relevant publication.
 
 ````
-@inproceedings{zhao2020end,
-  title={An end-to-end visual-audio attention network for emotion recognition in user-generated videos},
+@inproceedings{zhang2022temporal,
+  title={Temporal Sentiment Localization: Listen and Look in Untrimmed Videos},
   author={Zhang, Zhicheng and Yang, Jufeng},
   booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   year={2022}
