@@ -35,7 +35,7 @@ You can set up the environments by using `pip3 install -r requirements.txt`.
 
 If you need the TSL-300 dataset for academic purposes, please download the [application form](./assests/TSL-300_Data_Access_Form.docx) and fill out the request information, then send it to ***gloryzzc6@sina.com***.
 We will process your application as soon as possible.
-Please check out that the email used comes from your education institution.
+Please make sure that the email used comes from your educational institution.
 
 ## Data Preparation
 1. Prepare [TSL-300](./assests/TSL-300_Data_Access_Form.docx) dataset.
