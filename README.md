@@ -15,7 +15,7 @@
 
 **Key motivation:** *a video may convey multiple sentiments and each sentiment appears with varying lengths and locations.* Images come from ***"The Wolf of Wall Street"***.
 
-This repository contains the official implementation of our work in ACM MM 2022. TSL-300 dataset and pytorch training/validation code for **weakly-supervised framework TSL-Net** are released. More details can be viewed in our paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548007) [[Video]](https://youtu.be/r2PQyb5fzXc)
+This repository contains the official implementation of our work in ACM MM 2022. TSL-300 dataset and pytorch training/validation code for **weakly-supervised framework TSL-Net** are released. More details can be viewed in our paper. [[PDF]](./assests/acm22_zzc_videosenti_official.pdf) [[Video]](https://www.youtube.com/watch?v=znZZMq6YdBg)
 
 
 ## Abstract
