@@ -85,8 +85,6 @@ Please make sure that the email used comes from your educational institution.
 
 ## Model Zoo
 
-The checkpoint files are coming soon.
-
 <table>
     <tr>
         <td>Metric</td>
@@ -106,9 +104,9 @@ The checkpoint files are coming soon.
         <td rowspan="2">19.85</td>
         <td rowspan="2">75.24</td>
         <td rowspan="2">33.69</td>
-        <td><a href="https://drive.google.com">Baidu drive</a></td>
+        <td><a href="https://drive.google.com/file/d/1IgtUszVJjoa-VJ_UZVryFFcMouVJ__7d/view?usp=drive_link">Baidu drive</a></td>
     </tr>
-    <tr><td><a href="https://drive.google.com">Google drive</a></td></tr>
+    <tr><td><a href="https://drive.google.com/file/d/1IgtUszVJjoa-VJ_UZVryFFcMouVJ__7d/view?usp=drive_link">Google drive</a></td></tr>
 
 </table>
 
